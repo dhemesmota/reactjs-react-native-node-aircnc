@@ -19,13 +19,8 @@
 
 
 ![dashboard-spots-mb](https://user-images.githubusercontent.com/26680031/66260227-37dd4400-e792-11e9-93dc-6d7c0a748c21.jpg)
-
-
 ![mobile-aircnc](https://user-images.githubusercontent.com/26680031/66260249-8a1e6500-e792-11e9-922e-6a247e60546b.jpg)
 
-<p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>;
-</p>
 
 ## :rocket: Tecnologias
 
