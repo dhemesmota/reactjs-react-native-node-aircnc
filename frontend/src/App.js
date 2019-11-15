@@ -5,14 +5,12 @@ import logo from './assets/logo.svg';
 
 import Routes from './routes';
 
-function App() {
-  
-
+function App () {
   return (
-    <div className="container">
-      <img src={logo} alt="AirCnC"/>
+    <div className='container'>
+      <img src={logo} alt='AirCnC' />
 
-      <div className="content">
+      <div className='content'>
         <Routes />
       </div>
     </div>

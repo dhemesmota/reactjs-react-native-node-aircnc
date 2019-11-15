@@ -7,7 +7,9 @@
   box-sizing: border-box;
 }
 
-html, body, #root {
+html,
+body,
+#root {
   min-height: 100%;
 }
 
@@ -17,7 +19,9 @@ body {
   -webkit-font-smoothing: antialiased !important;
 }
 
-body, input, button {
+body,
+input,
+button {
   font-family: 'Roboto', Arial, Helvetica, sans-serif;
   font-size: 14px;
 }
@@ -33,7 +37,7 @@ body, input, button {
 
 .content {
   width: 100%;
-  background: #FFF;
+  background: #fff;
   margin-top: 50px;
   border-radius: 4px;
   padding: 30px;
@@ -82,21 +86,20 @@ body, input, button {
   font-weight: bold;
   background: #f05a5b;
   border: 2px solid #f05a5b;
-  color: #FFF;
+  color: #fff;
   cursor: pointer;
   transition: all .2s ease-in-out;
 }
 
 .content button.btn.btn-outline {
-  background: #FFF;
+  background: #fff;
   color: #f05a5b;
   border: 2px solid #f05a5b;
   margin-top: 20px;
 }
 
-
 .content button.btn:hover {
   background: #e14f50;
-  color: #FFF;
+  color: #fff;
   border-color: #e14f50;
 }
